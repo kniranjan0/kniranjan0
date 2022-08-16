@@ -12,6 +12,8 @@ working in a product-based company
 
 Skills:  REACT /  REDUX / JS / HTML / CSS
 
+![Profile views](https://gpvc.arturio.dev/kniranjan0)  
+
 - 🌱 I’m currently learning Aspiring Full Stack Web Developer, Learning MERN Stack 
 - 📫 How to reach me: kniranjan682@gmail.com 
 
@@ -19,8 +21,6 @@ Skills:  REACT /  REDUX / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kniranjan0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niranjan-kumar682/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kniranjan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/kniranjan0/overview)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-![Profile views](https://gpvc.arturio.dev/kniranjan0)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kniranjan0)](https://github.com/ryo-ma/github-profile-trophy)
 
