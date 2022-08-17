@@ -4,7 +4,7 @@
 
 ## Full Stack Web Developer
 
-I Capable of writing production-ready code using
+I am Capable of writing production-ready code using
 ReactJS, Redux, and CSS on the frontend, NodeJS, and
 Express on the backend to build single-page applications.
 I'm passionate about coding and strongly interested in
