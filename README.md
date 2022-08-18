@@ -50,7 +50,7 @@ working in a product-based company
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kniranjan0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niranjan-kumar682/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kniranjan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/kniranjan0/overview)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0)]-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kniranjan0&show_icons=true&count_private=true)  
