@@ -50,7 +50,13 @@ working in a product-based company
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kniranjan0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niranjan-kumar682/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kniranjan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/kniranjan0/overview)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0)]-
+## My GitHub Stats 📊
+<a href="https://github.com/kniranjan0">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kniranjan0&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/kniranjan0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0" />
+</a>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kniranjan0&show_icons=true&count_private=true)  
