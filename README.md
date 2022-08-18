@@ -58,8 +58,8 @@ working in a product-based company
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0" />
 </a>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kniranjan0&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0&layout=compact)](https://github.com/kniranjan0)
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kniranjan0)
 
