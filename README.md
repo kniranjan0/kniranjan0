@@ -44,10 +44,10 @@ working in a product-based company
 ![Profile views](https://gpvc.arturio.dev/kniranjan0)  
 
 - 🌱 I’m currently learning Aspiring Full Stack Web Developer, Learning MERN Stack 
-- 📫 How to reach me: kniranjan682@gmail.com 
 
+## 📫 How to reach me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kniranjan0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niranjan-kumar682/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kniranjan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/kniranjan0/overview)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' style=" background-color: red">](https://github.com/kniranjan0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' style=" background-color: red">](https://www.linkedin.com/in/niranjan-kumar682/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='50' style=" background-color: red">](https://codesandbox.io/u/kniranjan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='50' style=" background-color: red">](https://app.netlify.com/teams/kniranjan0/overview)  
 
 
 ## My GitHub Stats 📊
