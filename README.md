@@ -1,19 +1,29 @@
-<img src="https://camo.githubusercontent.com/5f2503ce7f221dddb57d9d9234ca9c52e8284da01690a3ef43f4880e05da06d1/68747470733a2f2f7777772e70726f6f666875622e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f5765622d446576656c6f7065722e676966" align="center" height="400" width="100%" />
-</div>  
 
-# Hi there 👋, Niranjan Kumar
+<h1 align="center">Hi 👋, I'm Niranjan Kumar</h1>
+<h3 align="center">< Full Stack Web Developer /></h3>
 
-## Full Stack Web Developer
+<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
 
-I am Capable of writing production-ready code using
-ReactJS, Redux, and CSS on the frontend, NodeJS, and
-Express on the backend to build single-page applications.
-I'm passionate about coding and strongly interested in
-working in a product-based company
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="kniranjan0" /> </p>
 
+- 🌱 I’m currently learning **I’m currently learning MERN stack**
+
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects,Tech Articles**
+
+- 👨‍💻 All of my projects are available at [https://niranjan-kumar.netlify.app/#/home](https://niranjan-kumar.netlify.app/#/home)
+
+- 💬 Ask me about ** Javascript , Reactjs , Algorithms**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niranjan-kumar682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar682" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kniranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kniranjan" height="30" width="40" /></a>
+</p>
+<img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<h3 align="left">Languages and Tools :  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
 
 ### Frontend  
-<div align="center">  
+<div >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -24,45 +34,24 @@ working in a product-based company
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
-<div align="center">  
+<div>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-![Profile views](https://gpvc.arturio.dev/kniranjan0)  
-
-- 🌱 I’m currently learning Aspiring Full Stack Web Developer, Learning MERN Stack 
-
-## 📫 How to reach me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' style="background-color: white">](https://github.com/https://github.com/kniranjan0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' style="background-color: white">](https://www.linkedin.com/in/www.linkedin.com/in/niranjan-kumar682/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='50' style="background-color: white">](https://app.netlify.com/teams/kniranjan0/overview)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='50' style="background-color: white">](https://codesandbox.io/u/https://codesandbox.io/u/kniranjan)   
+<br>
 
 
 ## My GitHub Stats 📊
 <a href="https://github.com/kniranjan0">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kniranjan0&count_private=true&show_icons=true&theme=radical" />
 </a>
+
+ 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kniranjan0)
 <a href="https://github.com/kniranjan0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0" />
 </a>
- 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kniranjan0)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kniranjan0)  
-
-  
-
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kniranjan0)
 
