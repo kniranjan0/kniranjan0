@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Niranjan Kumar</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
+, I'm Niranjan Kumar</h1>
 <h3 align="center">< Full Stack Web Developer /></h3>
 
 <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
@@ -8,19 +9,21 @@
 
 - 🌱 I’m currently learning **I’m currently learning MERN stack**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects,Tech Articles**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects Tech Articles**
 
 - 👨‍💻 All of my projects are available at [https://niranjan-kumar.netlify.app/#/home](https://niranjan-kumar.netlify.app/#/home)
 
-- 💬 Ask me about ** Javascript , Reactjs , Algorithms**
+- 💬 Ask me about **Javascript , Reactjs , Algorithms**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
+
 <a href="https://linkedin.com/in/niranjan-kumar682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar682" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kniranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kniranjan" height="30" width="40" /></a>
+<a href = 'https://github.com/kniranjan0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
 </p>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
-<h3 align="left">Languages and Tools :  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
+<h2 align="left">Languages and Tools :  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 ### Frontend  
 <div >  
