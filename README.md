@@ -47,14 +47,17 @@
 
 
 ## My GitHub Stats 📊
+
+<a href="https://github.com/kniranjan0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0" />
+</a>
 <a href="https://github.com/kniranjan0">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kniranjan0&count_private=true&show_icons=true&theme=radical" />
 </a>
 
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kniranjan0)
-<a href="https://github.com/kniranjan0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniranjan0" />
-</a>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kniranjan0)
+
 
