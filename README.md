@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="kniranjan0" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning MERN stack**
+- 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects Tech Articles**
+- 👯 I’m looking to collaborate on **Projects Tech Articles**
 
 - 👨‍💻 All of my projects are available at [https://niranjan-kumar.netlify.app/#/home](https://niranjan-kumar.netlify.app/#/home)
 
