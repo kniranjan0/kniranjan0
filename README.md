@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects Tech Articles**
 
-- 👨‍💻 All of my projects are available at [https://niranjan-kumar.netlify.app/#/home](https://niranjan-kumar.netlify.app/#/home)
+- 👨‍💻 All of my projects are available at [https://kniranjan0.github.io/niranjan-portfolio/](https://kniranjan0.github.io/niranjan-portfolio/)
 
 - 💬 Ask me about **Javascript , Reactjs , Algorithms**
 
